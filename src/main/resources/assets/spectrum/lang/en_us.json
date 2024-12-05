@@ -3337,7 +3337,7 @@
   "book.spectrum.guidebook.mod_integration.the_bumblezone.essence_ink.title": "Colors and Mayhem",
   "book.spectrum.guidebook.mod_integration.the_bumblezone.essence_ink.text": "These essences... they're absolutely **brimming** with energy. Useful, yes, but they also act as **troves** of ink... if I'm willing to sacrifice them.\\\nTry as I might though, the chaotic essence of the bees won't stabilize itself enough to be converted to ink...",
   "book.spectrum.guidebook.mod_integration.vein_mining.name": "Vein Mining",
-  "book.spectrum.guidebook.mod_integration.vein_mining.page0.text": "*Still mining each ore individually? Gravity might make it easier.*\\\n\\\nVein Mining rips out all connected blocks.\\\n\\\nMax Level: 1\\\nApplicable to all tools.",
+  "book.spectrum.guidebook.mod_integration.vein_mining.page0.text": "*Still mining each ore individually? Gravity might make it easier.*\\\n\\\nVein Mining rips out all connected blocks.\\\n\\\nMax Level: 1 ~ 5 depending on configuration\\\nApplicable to all tools.",
   "book.spectrum.guidebook.mod_integration.victus.name": "Victus",
   "book.spectrum.guidebook.mod_integration.victus.page0.text": "I took heart... and another and another. Now I've got a whole bunch of them. Exciting, huh.",
   "book.spectrum.guidebook.mod_integration.victus.page1.title": "Resurgence",
